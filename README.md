@@ -55,7 +55,23 @@ Why to invite a wheel again? There is a bunch of selfhosted applications ready t
 * Plex media server
 * _add more..._
 
-# LinkedIn tips & tricks
+# Prototyping
+## How to get most form JavaScript
+I tried to learn all what I can do in JS so I could rapid prototype. 
+So what you can do in JS?
+* website (front-end)
+* web game (WebGL or...)
+* Desktop app (Electron)
+* Mobile app (React Native)
+* Browser (Chrome, Edge, FF, Opera) plugin
+* Userscript (you can automate tasks in the browser)
+* CLI (console) app
+* Portable app
+
+## How to start learning robotics without having a robot and what to learn? 
+
+# Carrier
+## LinkedIn tips & tricks
 * on the first step you need to convice recturter, that you match to this position, time for convincing techincall people is later
 * list of your skills is crucial for recuters, as they will reseach using it
 * pass skills tests, so recruters can easier find you and be sure you are qualified in those technologies
