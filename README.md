@@ -1,10 +1,10 @@
 # Awesome Development
 Tips &amp; tricks for developers and IT specialists. 
 
-* increase your efficiency 
-* impress other developers
-* speed up your carrier
-* prototype faster 
+* increase your efficiency 💹
+* impress other developers :) 🔥
+* prototype faster 🛠
+* speed up your carrier 🚀
 
 # Way of work
 ## How do I start quickly with new technology?
