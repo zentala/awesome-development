@@ -1,12 +1,11 @@
 # Awesome Development
-Tips &amp; tricks for developers and IT specialists. 
+Tips &amp; tricks for begginer (but not only) developers and IT specialists. 
 
 * increase your efficiency 💹
 * impress other developers :) 🔥
 * prototype faster 🛠
 * speed up your carrier 🚀
 
-# Way of work
 ## How do I start quickly with new technology?
 Whenever I want to learn some new technology (eg. Node, BASH, RPA, ROS, C++, robotics, IoT, etc... I will call it `<tech>`) I google following phrases:
 * `<tech> crash course` and I am learning basics, what gives me a rough idea about what is it about. 
@@ -14,15 +13,22 @@ Whenever I want to learn some new technology (eg. Node, BASH, RPA, ROS, C++, rob
 * `<tech> awesome` repo and I familiarize myself with the best libraries, courses, frameworks, etc. 
 * `<tech> weekly` and I am subscribing a weekly mailing list (newsletter), so I can be up-to-dated with what's new in the topic area.
 
-# Unicode Icons Emojis 
-You can use them all in the README.md to make it looks awesowme:
+## Awesome README
+### Unicode Icons Emojis 
 https://unicode-table.com/en/emoji/
 
-# GitPod development
+### Shields
+https://shields.io/
 
-# Free serveless setup
+### Read some good articles
+https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
 
-# TeamViewer as a CLI
+
+## WebDevelopment
+### Free serveless hosting and development 
+Github Pages + Gatsby / Jekyll + GitPod
+
+## TeamViewer as a CLI
 It is possible to use TeamViewer without GUI, in pure console mode. Sometimes that may be helpfull if you need to get easy access to a remote server, that is located behind NAT.
 
 ``` console
@@ -36,26 +42,25 @@ $ sudo teamviewer passwd [password] # set new password
 
 If u want save space u can also install TeamViewer Host.
 
-# Cheat Sheets
+## Cheat Sheets
 TODO: paste here my cheat 
 
-# Awesome Terminal
+## Awesome Terminal
 * ZSH
 * Oh-my-zsh
 * Tilix on Linux
 * iTerm on Mac
 * Meslo font
 
-# WSL2 + Windows Terminal - awesome Linux terminal on Windows
+## WSL2 + Windows Terminal - awesome Linux terminal on Windows
 
-# Automate Linux setup with BASH scripts
+## Automate Linux setup with BASH scripts
 
-# Selfhosted apps
+## Selfhosted apps
 Why to invite a wheel again? There is a bunch of selfhosted applications ready to deploy... just look on the list of awesome self-hosted. I am using a lot of self-hosted software on my server and home NAS. My personal favourities:
 * Plex media server
 * _add more..._
 
-# Prototyping
 ## How to get most form JavaScript
 I tried to learn all what I can do in JS so I could rapid prototype. 
 So what you can do in JS?
@@ -70,7 +75,6 @@ So what you can do in JS?
 
 ## How to start learning robotics without having a robot and what to learn? 
 
-# Carrier
 ## LinkedIn tips & tricks
 * on the first step you need to convice recturter, that you match to this position, time for convincing techincall people is later
 * list of your skills is crucial for recuters, as they will reseach using it
