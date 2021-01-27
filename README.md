@@ -53,4 +53,4 @@ TODO: paste here my cheat
 # Selfhosted apps
 Why to invite a wheel again? There is a bunch of selfhosted applications ready to deploy... just look on the list of awesome self-hosted. I am using a lot of self-hosted software on my server and home NAS. My personal favourities:
 * Plex media server
-* <add more>
+* _add more..._
