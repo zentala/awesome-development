@@ -9,10 +9,10 @@ Tips &amp; tricks for developers and IT specialists.
 # Way of work
 ## How do I start quickly with new technology?
 Whenever I want to learn some new technology (eg. Node, BASH, RPA, ROS, C++, robotics, IoT, etc... I will call it `<tech>`) I google following phrases:
-# `<tech> crash course` and I am learning basics, what gives me a rough idea about what is it about. 
-# `<tech> cheat sheet` so I can ensure I know all options/functions/commands and to keep them in mind.
-# `<tech> awesome` repo and I familiarize myself with the best libraries, courses, frameworks, etc. 
-# `<tech> weekly` and I am subscribing a weekly mailing list (newsletter), so I can be up-to-dated with what's new in the topic area.
+* `<tech> crash course` and I am learning basics, what gives me a rough idea about what is it about. 
+* `<tech> cheat sheet` so I can ensure I know all options/functions/commands and to keep them in mind.
+* `<tech> awesome` repo and I familiarize myself with the best libraries, courses, frameworks, etc. 
+* `<tech> weekly` and I am subscribing a weekly mailing list (newsletter), so I can be up-to-dated with what's new in the topic area.
 
 # Unicode Icons Emojis 
 You can use them all in the README.md to make it looks awesowme:
