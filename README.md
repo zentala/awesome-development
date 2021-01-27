@@ -54,3 +54,10 @@ TODO: paste here my cheat
 Why to invite a wheel again? There is a bunch of selfhosted applications ready to deploy... just look on the list of awesome self-hosted. I am using a lot of self-hosted software on my server and home NAS. My personal favourities:
 * Plex media server
 * _add more..._
+
+# LinkedIn tips & tricks
+* on the first step you need to convice recturter, that you match to this position, time for convincing techincall people is later
+* list of your skills is crucial for recuters, as they will reseach using it
+* pass skills tests, so recruters can easier find you and be sure you are qualified in those technologies
+* easies choice for the cover photo is a code image
+* tell about your additional skills, that may help you find interesing position
