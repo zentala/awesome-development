@@ -6,13 +6,13 @@ Tips &amp; tricks for developers and IT specialists.
 * speed up your carrier
 * prototype faster 
 
-# Lifehack: How to start quickly with new technology?
-Google:
-* `<tech> quick start` - spend some short amount of time to get fast introduction
-* `<tech> weekly` newsletter and subsribe it - subscribe weekly newsletter so you can be up-to-dated with what's new in the industry
-* `<tech> awesome` repo and check it out - check out list of the best resources, you should know what is cool, most popular and useful
-
-Replace `<tech>` with whatever you want to learn: Node, BASH, RPA, ROS, robotics, IoT, etc... 
+# Way of work
+## How do I start quickly with new technology?
+Whenever I want to learn some new technology (eg. Node, BASH, RPA, ROS, C++, robotics, IoT, etc... I will call it `<tech>`) I google following phrases:
+# `<tech> crash course` and I am learning basics, what gives me a rough idea about what is it about. 
+# `<tech> cheat sheet` so I can ensure I know all options/functions/commands and to keep them in mind.
+# `<tech> awesome` repo and I familiarize myself with the best libraries, courses, frameworks, etc. 
+# `<tech> weekly` and I am subscribing a weekly mailing list (newsletter), so I can be up-to-dated with what's new in the topic area.
 
 # Unicode Icons Emojis 
 You can use them all in the README.md to make it looks awesowme:
