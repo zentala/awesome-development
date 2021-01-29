@@ -1,4 +1,4 @@
-# Awesome Development
+# Awesome Development  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Tips &amp; tricks for begginer (but not only) developers and IT specialists. 
 
 * increase your efficiency 💹
@@ -81,3 +81,7 @@ So what you can do in JS?
 * pass skills tests, so recruters can easier find you and be sure you are qualified in those technologies
 * easies choice for the cover photo is a code image
 * tell about your additional skills, that may help you find interesing position
+
+## VSCode
+### LiveShare
+### Recommened plugins
