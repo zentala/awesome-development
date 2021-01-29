@@ -17,6 +17,11 @@ Whenever I want to learn some new technology (eg. Node, BASH, RPA, ROS, C++, rob
 ### Unicode Icons Emojis 
 https://unicode-table.com/en/emoji/
 
+Use them in:
+* console 
+* LinkedIn
+* READMEs
+
 ### Shields
 https://shields.io/
 
