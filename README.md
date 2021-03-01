@@ -90,3 +90,8 @@ So what you can do in JS?
 ## VSCode
 ### LiveShare
 ### Recommened plugins
+
+## Physical workspace
+* Height-adjustable desk, eg. [Elevo Grande 2](https://www.elevodesk.eu/sklep/biurka-elektrycznie-regulowane/elevo-grande-2-biurko-z-elektryczna-regulacja-wysokosci/)
+* 2-3 monitors
+* NAS
