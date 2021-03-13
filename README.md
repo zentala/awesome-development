@@ -51,11 +51,17 @@ If u want save space u can also install TeamViewer Host.
 TODO: paste here my cheat 
 
 ## Awesome Terminal
-* ZSH
-* Oh-my-zsh
-* Tilix on Linux
-* iTerm on Mac
-* Meslo font
+The best and great looking stack that you can setup:
+* ZSH shell with [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+* [powerlevel10k theme](https://github.com/romkatv/powerlevel10k) with Meslo font
+* Terminal emulator: 
+  * Linux: [Tilix](https://gnunn1.github.io/tilix-web/)
+  * MacOS: [iTerm2](https://iterm2.com/)
+  * Windows: [Windows Terminal](https://github.com/microsoft/terminal)
+
+Learn about possibilities of ZSH:
+* [5 tips to improve productivity with zsh](https://opensource.com/article/18/9/tips-productivity-zsh)
+* [10 Zsh Tips & Tricks: Configuration, Customization & Usage](https://www.sitepoint.com/zsh-tips-tricks/)
 
 ## WSL2 + Windows Terminal - awesome Linux terminal on Windows
 
