@@ -101,3 +101,9 @@ So what you can do in JS?
 * Height-adjustable desk, eg. [Elevo Grande 2](https://www.elevodesk.eu/sklep/biurka-elektrycznie-regulowane/elevo-grande-2-biurko-z-elektryczna-regulacja-wysokosci/)
 * 2-3 monitors
 * NAS
+
+## For childs / education
+* http://codejig.com/
+* https://codekingdoms.com/ - coding courses for childs from 8y
+* https://www.robotis.us/steam-edutainment/ - robotis
+  * https://www.youtube.com/watch?v=Kr6pTtOC6cU
