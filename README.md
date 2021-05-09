@@ -85,6 +85,10 @@ So what you can do in JS?
 * Portable app
 
 ## How to start learning robotics without having a robot and what to learn? 
+* most of the robots are built on ROS (Robotic Operating System).
+* currently community is developing ROS2 and in most cases there is no point to learn ROS(1) anymore
+* whole robot can be easily simulated in the software called `Gazebo`
+* https://www.theconstructsim.com/ created bunch of ROS courses where you can easily start to learn on simulated robots - just buy subscribtion and start learning. This is not avertisment. Courses are really great and cover everything what you may need to learn. 
 
 ## LinkedIn tips & tricks
 * on the first step you need to convice recturter, that you match to this position, time for convincing techincall people is later
