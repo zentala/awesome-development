@@ -22,6 +22,9 @@ Use them in:
 * LinkedIn
 * READMEs
 
+### Github Emoji
+https://gist.github.com/rxaviers/7360908
+
 ### Shields
 https://shields.io/
 
