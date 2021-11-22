@@ -109,8 +109,12 @@ So what you can do in JS?
 * 2-3 monitors
 * NAS
 
-## For childs / education
+## For childs / education / STEAM
 * http://codejig.com/
 * https://codekingdoms.com/ - coding courses for childs from 8y
+
+# Robotics (ROS-based)
 * https://www.robotis.us/steam-edutainment/ - robotis
   * https://www.youtube.com/watch?v=Kr6pTtOC6cU
+* https://www.petoi.com/products/petoi-bittle
+* https://dji-ars.pl/dji-robomaster-s1.html - great reviews
