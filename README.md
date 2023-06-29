@@ -26,7 +26,8 @@ Use them in:
 https://gist.github.com/rxaviers/7360908
 
 ### Shields
-https://shields.io/
+* https://shields.io/
+* https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md
 
 ### Read some good articles
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
@@ -118,3 +119,12 @@ So what you can do in JS?
   * https://www.youtube.com/watch?v=Kr6pTtOC6cU
 * https://www.petoi.com/products/petoi-bittle
 * https://dji-ars.pl/dji-robomaster-s1.html - great reviews
+
+# Jupyter Notebook
+I regret I learned so late to use Jupyter Notebooks: https://jupyter.org/
+
+This is is simple:
+* Just create `*.ipynb` file in your repo
+* Install [Jupyter Extension for Visual Studio Code](https://github.com/microsoft/vscode-jupyter) from Microsoft
+* take a look on official VS Code [usage instruction](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+  
