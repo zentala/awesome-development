@@ -28,6 +28,7 @@ https://gist.github.com/rxaviers/7360908
 ### Shields
 * https://shields.io/
 * https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md
+* https://github.com/wisehackermonkey/badge-demo
 
 ### Read some good articles
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
