@@ -10,6 +10,8 @@ This repository is dedicated to sharing my journey of exploring various technolo
 Whether you're just starting out or looking to refine your skills, there's something here for everyone.
 
 
+
+
 # How to Quickly Start with New Technology?
 When learning a new technology (`<tech>`, like `Kafka`, `RPA`, `ROS`, `C++`, etc.) involve a flexible, multi-angle approach for a holistic understanding. Here’s a brief method:
 
@@ -21,6 +23,7 @@ When learning a new technology (`<tech>`, like `Kafka`, `RPA`, `ROS`, `C++`, etc
 6. **`<tech> weekly` Newsletter**: Stay current with trends via weekly newsletters.
 
 This approach builds a multidimensional understanding by exploring the topic from different angles, enhancing learning and information retention more than in-depth, one-time study.
+
 
 
 
@@ -78,45 +81,58 @@ Explore a vast collection of badge examples at [Badge Demo](https://github.com/w
 
 
 # Icons
-## Unicode Icons Emojis 
-https://unicode-table.com/en/emoji/
+Enhance your projects and digital communication with a variety of icons and emojis.
 
-Use them in:
-* console 
-* LinkedIn
-* READMEs
+## Unicode Emoji Icon Characters 
+Find a diverse range of emojis at [Unicode Emoji Table](https://unicode-table.com/en/emoji/), useful in: <!-- update list -->
+* Console - for visual elements in scripts.
+* LinkedIn - to make profiles and posts more engaging.
+* READMEs - to visually improve GitHub documentation.
+* Bots - to enliven messages and responses.
+* Social Media Posts - to focus attention and emphasize the messages.
 
-## Github Emoji for *.MD files
-https://gist.github.com/rxaviers/7360908
+<!-- wspomniec o starszych symbolach unicode https://www.utf8icons.com/ -->
 
-## From Google
-* https://fonts.google.com/icons - parametric icons for web
-* https://fonts.google.com/noto/specimen/Noto+Color+Emoji - UTF8 google font
+## Google's Icon Fonts
+* [Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Color+Emoji): A HQ UTF8 icon font by Google, great for web and print.
+* [Google Material Icons](https://fonts.google.com/icons): Parametric icons for web design, suitable for professional layouts.
 
+## GitHub Emoji for Markdown Files
+Explore an extensive list of GitHub emojis for a creative touch in `.md` files:
+[GitHub Emojis](https://gist.github.com/rxaviers/7360908)
   
 
 
-# Good readme
-## My advice
-Be expresive and clear visually with icons, badges, images (eg. screenshots) and ritch markdown.
 
-## Read some good articles
-https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
+# Good README
+
+## Technical Introduction
+For an in-depth technical guide on crafting a high-quality README, visit: [How to Write a Good README for Your GitHub Project](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project).
+
+## My Additional Advices
+Make your README expressive and visually clear:
+- Use **Icons** and **Badges** for quick visual cues.
+- Include **Images** (like screenshots) to illustrate key points.
+- Employ **Rich Markdown** formatting to organize and highlight information effectively.
+
 
 
 # TeamViewer as a CLI
-It is possible to use TeamViewer without GUI, in pure console mode. Sometimes that may be helpfull if you need to get easy access to a remote server, that is located behind NAT.
+TeamViewer can be operated in a console-only mode, without the GUI. This can be particularly useful for easy access to remote servers located behind NAT.
 
 ``` console
 $ cd ~/Downloads/ 
 $ wget https://download.teamviewer.com/download/linux/teamviewer_i386.deb # for x86
 $ sudo dpkg -i teamviewer_i386.deb 
-$ teamviewer help # list of commands, but not all of them, I don't know why 
+$ teamviewer help # lists commands, but not all, reason unknown
 $ teamviewer info # check TV daemon status and get TV ID 
-$ sudo teamviewer passwd [password] # set new password
+$ sudo teamviewer passwd [new_password] # set a new password
 ```
 
-If u want save space u can also install TeamViewer Host.
+To conserve disk space, consider installing TeamViewer Host, which is a lighter version optimized for continuous remote access to computers and servers, functioning without the traditional GUI of the standard TeamViewer application.
+
+
+
 
 # WebDevelopment
 ## Free serveless hosting and development 
