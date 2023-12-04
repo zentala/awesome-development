@@ -135,45 +135,76 @@ To conserve disk space, consider installing TeamViewer Host, which is a lighter 
 
 
 
+# Awesome Terminal
+
+
+## Recomeded setup 
+The best and great looking stack that you can setup:
+* ZSH shell with [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+* [powerlevel10k theme](https://github.com/romkatv/powerlevel10k) with Meslo font
+* Terminal emulator: 
+  * Linux: [Tilix](https://gnunn1.github.io/tilix-web/)
+  * MacOS: [iTerm2](https://iterm2.com/)
+  * Windows: [Windows Terminal](https://github.com/microsoft/terminal)
+
+### Learn about possibilities of ZSH:
+* [5 tips to improve productivity with zsh](https://opensource.com/article/18/9/tips-productivity-zsh)
+* [10 Zsh Tips & Tricks: Configuration, Customization & Usage](https://www.sitepoint.com/zsh-tips-tricks/)
+
+
+## WSL2 + Windows Terminal + VSCode Remote Explorer
+
+This trio offers a seamless integration of Linux and Windows environments, supported natively by Microsoft. The combination of WSL2 (Windows Subsystem for Linux) and Windows Terminal provides a robust platform for running a real Linux environment on Windows, while maintaining the comfort and familiarity of the Windows OS.
+
+### Key Integration Features:
+- **WSL2 Integration**: WSL2 is deeply integrated with Windows, offering an authentic Linux experience. It's particularly useful for running Linux servers, testing cross-platform applications, and more.
+- **Windows Terminal**: It supports various shells including PowerShell and the Linux shell through WSL. This versatility allows developers to easily switch between Windows and Linux environments.
+- **VSCode Remote Explorer**: This feature in VSCode supports WSL targets, allowing you to develop in a Linux-based environment directly from VSCode on Windows.
+
+This collaboration between VSCode Remote Explorer, Windows Terminal, and WSL2 represents a significant stride in cross-platform development. Developers can effortlessly manage and navigate both Windows and Linux environments, leveraging the strengths of each for a more efficient workflow. Regular updates and improvements to these tools continue to enhance their integration, making them a powerful combination for modern development needs.
+
+
+
+
 # Jupyter Notebook
-I regret I learned so late to use [Jupyter Notebooks](https://jupyter.org/).
+Discovering [Jupyter Notebooks](https://jupyter.org/) has been a game-changer in my work.
 
 ## Benefits
 
-Jupyter Notebook is an incredibly powerful tool for everyone, including beginners in:
-* programming,
-* data science,
-* scientific research. 
+Jupyter Notebook is a versatile tool ideal for:
+* Programming beginners,
+* Data science enthusiasts,
+* Scientific researchers.
 
-Here's why it's a great choice:
+### Why It's a Great Choice:
 
-### Easy to Start
-- **User-Friendly Interface**: Jupyter offers an intuitive interface that makes it easy for newcomers to start coding.
-- **No Complex Setup**: Run it directly in your browser without any complicated installation.
+#### Easy to Start
+- **User-Friendly Interface**: Jupyter's intuitive interface simplifies the coding process for beginners.
+- **No Complex Setup**: It runs directly in your browser, eliminating complicated installations.
 
-### Interactive Learning
-- **Live Code Execution**: Execute code in blocks and see the results immediately. This makes learning and debugging much simpler.
-- **Experimentation Friendly**: Easily modify and rerun code to understand how different components work.
+#### Interactive Learning
+- **Live Code Execution**: Immediate feedback from code execution aids learning and debugging.
+- **Experimentation-Friendly**: Modify and rerun code snippets to deepen your understanding of different components.
 
-## Integration of Code and Documentation
-- **Markdown Support**: Alongside code, you can add notes and documentation using Markdown, making it easier to understand your thought process.
-- **Rich Text Elements**: Include HTML, images, videos, and links for a more comprehensive learning and making technical notes experience.
+### Integration of Code and Documentation
+- **Markdown Support**: Add notes and documentation alongside code for a clearer thought process.
+- **Rich Text Elements**: Enhance your notebooks with HTML, images, videos, and links.
 
-## Visualization Tools
-- **Data Visualization**: Directly visualize data with charts and graphs within the notebook.
-- **Interactive Output**: Outputs are not just static but can be interactive, enhancing the learning and exploration experience.
+### Visualization Tools
+- **Data Visualization**: Create charts and graphs directly within your notebooks.
+- **Interactive Output**: Dynamic outputs make learning and exploration more engaging.
 
-## Wide Language Support
-- **Supports Multiple Languages**: Primarily supports Python, but you can also use languages like R and Julia, and even Node.js with additional setups.
+### Wide Language Support
+- **Versatile Language Compatibility**: Primarily supports Python, with options for R, Julia, and Node.js.
 
-## Community and Resources
-- **Extensive Community**: Benefit from a large community of users and a wealth of shared notebooks and resources.
-- **Growing Ecosystem**: Regular updates and a growing list of extensions and libraries.
+### Community and Resources
+- **Extensive Community**: Access a vast network of users, shared notebooks, and resources.
+- **Growing Ecosystem**: Continually updated with new extensions and libraries.
 
-Jupyter Notebook serves both beginners and advanced developers by offering an interactive, user-friendly platform for learning and experimentation, while also providing robust capabilities for complex data analysis, development of algorithms, and creation of detailed technical documentation and educational materials.
+Jupyter Notebook is an excellent platform for both novice and experienced developers, providing an interactive environment for learning, data analysis, algorithm development, and comprehensive technical documentation.
 
-## How to start?
-This is is simple:
-* Just create `*.ipynb` file in your repo
-* Install [Jupyter Extension for Visual Studio Code](https://github.com/microsoft/vscode-jupyter) from Microsoft
-* take a look on official VS Code [usage instruction](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+## Getting Started
+Begin your Jupyter journey with ease:
+* Create a `*.ipynb` file in your repository.
+* Install the [Jupyter Extension for Visual Studio Code](https://github.com/microsoft/vscode-jupyter).
+* Refer to the official [VS Code usage instructions](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) for guidance.
