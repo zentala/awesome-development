@@ -89,7 +89,7 @@ Find a diverse range of emojis at [Unicode Emoji Table](https://unicode-table.co
 * LinkedIn - to make profiles and posts more engaging.
 * READMEs - to visually improve GitHub documentation.
 * Bots - to enliven messages and responses.
-* Social Media Posts - to focus attention and emphasize the messages.
+* Posts & Messages - to focus attention and emphasize the messages.
 
 <!-- wspomniec o starszych symbolach unicode https://www.utf8icons.com/ -->
 
