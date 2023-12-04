@@ -186,18 +186,18 @@ Jupyter Notebook is a versatile tool ideal for:
 - **Live Code Execution**: Immediate feedback from code execution aids learning and debugging.
 - **Experimentation-Friendly**: Modify and rerun code snippets to deepen your understanding of different components.
 
-### Integration of Code and Documentation
+#### Integration of Code and Documentation
 - **Markdown Support**: Add notes and documentation alongside code for a clearer thought process.
 - **Rich Text Elements**: Enhance your notebooks with HTML, images, videos, and links.
 
-### Visualization Tools
+#### Visualization Tools
 - **Data Visualization**: Create charts and graphs directly within your notebooks.
 - **Interactive Output**: Dynamic outputs make learning and exploration more engaging.
 
-### Wide Language Support
+#### Wide Language Support
 - **Versatile Language Compatibility**: Primarily supports Python, with options for R, Julia, and Node.js.
 
-### Community and Resources
+#### Community and Resources
 - **Extensive Community**: Access a vast network of users, shared notebooks, and resources.
 - **Growing Ecosystem**: Continually updated with new extensions and libraries.
 
