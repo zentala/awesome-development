@@ -13,25 +13,23 @@ Why to invite a wheel again? There is a bunch of selfhosted applications ready t
 * Plex media server
 * _add more..._
 
-# JavaScript / TypeScript
-## How to get most form JavaScript
-I tried to learn all what I can do in JS so I could rapid prototype. 
-So what you can do in JS?
-* website (front-end)
-* web game (WebGL or...)
-* Desktop app (Electron)
-* Mobile app (React Native)
-* Browser (Chrome, Edge, FF, Opera) plugin
-* Userscript (you can automate tasks in the browser)
-* CLI (console) app
-* Portable app
+
 
 # Robotics
 ## How to start learning robotics without having a robot and what to learn? 
 * most of the robots are built on ROS (Robotic Operating System).
 * currently community is developing ROS2 and in most cases there is no point to learn ROS(1) anymore
 * whole robot can be easily simulated in the software called `Gazebo`
-* https://www.theconstructsim.com/ created bunch of ROS courses where you can easily start to learn on simulated robots - just buy subscribtion and start learning. This is not avertisment. Courses are really great and cover everything what you may need to learn. 
+* https://www.theconstructsim.com/ created bunch of ROS courses where you can easily start to learn on simulated robots - just buy subscribtion and start learning. This is not avertisment. Courses are really great and cover everything what you may need to learn.
+
+# Robotics (ROS-based)
+* https://www.robotis.us/steam-edutainment/ - robotis
+  * https://www.youtube.com/watch?v=Kr6pTtOC6cU
+* https://www.petoi.com/products/petoi-bittle
+* https://dji-ars.pl/dji-robomaster-s1.html - great reviews
+
+
+
 
 # LinkedIn 
 ## Tips & tricks
@@ -41,8 +39,29 @@ So what you can do in JS?
 * easies choice for the cover photo is a code image
 * tell about your additional skills, that may help you find interesing position
 
+
 # VSCode
-## LiveShare
+## Recommended general use extenton
+- LiveShare - 
+- Editorconfig - EditorConfig.EditorConfig
+- Jupyter - 
+- Color Highlight - naumovs.color-highlight
+
+## Extentions of Microsoft & GitHub congllomerate
+- Remote Explorer
+- DevContainers
+- GitHub Repositories
+- Remote Repositories
+- GitHub Codespaces
+- Remote - SSH
+- Remote - SSH: Editing Configuration Files
+- Remote - Tunnels
+- Remote Development
+- WSL
+- Docker
+- Live Preview ms-vscode.live-server
+
+
 ## Recommened plugins
 
 # Physical workspace
@@ -54,9 +73,4 @@ So what you can do in JS?
 * http://codejig.com/
 * https://codekingdoms.com/ - coding courses for childs from 8y
 
-# Robotics (ROS-based)
-* https://www.robotis.us/steam-edutainment/ - robotis
-  * https://www.youtube.com/watch?v=Kr6pTtOC6cU
-* https://www.petoi.com/products/petoi-bittle
-* https://dji-ars.pl/dji-robomaster-s1.html - great reviews
 
