@@ -184,8 +184,22 @@ This trio offers a seamless integration of Linux and Windows environments, suppo
 
 This collaboration between VSCode Remote Explorer, Windows Terminal, and WSL2 represents a significant stride in cross-platform development. Developers can effortlessly manage and navigate both Windows and Linux environments, leveraging the strengths of each for a more efficient workflow. Regular updates and improvements to these tools continue to enhance their integration, making them a powerful combination for modern development needs.
 
+# M$ PowerToys
 
+Useful PowerToys Features for Developers:
 
+- **FancyZones** – custom window layouts for better multitasking; snap windows with Shift + drag.
+- **PowerRename** – batch rename files using search/replace or RegEx.
+- **PowerToys Run** – Alt + Space launcher for fast access to apps, files, and commands.
+- **Always On Top** – pin any window above others using Ctrl + Win + T.
+- **Keyboard Manager** – remap keys and shortcuts to fit your workflow.
+- **Mouse Utilities** – find cursor (Ctrl tap), highlight clicks, draw crosshair on screen.
+- **Paste as Plain Text** – paste without formatting using Ctrl + Win + V.
+- **Text Extractor (OCR)** – Ctrl + Win + T to grab text from images or screen elements.
+- **File Locksmith** – see which processes are locking a file via right-click.
+- **Hosts File Editor** – easy UI to edit `hosts` file for local DNS overrides.
+- **Environment Variables Editor** – GUI for managing environment variables.
+- **Peek** – quick code/file preview with Ctrl + Space.
 
 # Jupyter Notebook
 Discovering [Jupyter Notebooks](https://jupyter.org/) has been a game-changer in my work.
