@@ -243,3 +243,56 @@ Begin your Jupyter journey with ease:
 * Create a `*.ipynb` file in your repository.
 * Install the [Jupyter Extension for Visual Studio Code](https://github.com/microsoft/vscode-jupyter).
 * Refer to the official [VS Code usage instructions](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) for guidance.
+
+
+
+
+# Git Line Endings: LF vs CRLF
+
+**TL;DR:** Always use **LF** (Unix-style) line endings unless you're dealing with Windows-specific files (`.bat`, `.cmd`, `.ps1`) or binary files (images, archives). LF is the standard for Git, Linux, Docker, and modern cross-platform development.
+
+**Why LF?**
+- ✅ Works on Windows, Linux, macOS
+- ✅ Required for Docker/containers
+- ✅ Prevents Git warnings and merge conflicts
+- ✅ Smaller file size (1 byte vs 2 bytes)
+- ✅ Required for shell scripts
+
+**Quick Setup:**
+```bash
+git config --global core.autocrlf input
+```
+
+Then create `.gitattributes` in your project:
+```gitattributes
+* text=auto eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+```
+
+📖 **[Read the full guide →](LF-vs-CRLF.md)** for detailed explanations, common problems, and solutions.
+
+
+
+
+# Inclusive Terminology in Tech
+
+**TL;DR:** Use modern technical terms that are clearer and follow industry standards: `primary/replica` instead of `master/slave`, `allowlist/blocklist` instead of `whitelist/blacklist`, `main` instead of `master` branch.
+
+**Why?**
+- ✅ More precise technical descriptions
+- ✅ Industry standard (GitHub, Python, Redis, MySQL all switched)
+- ✅ Better internationalization
+- ✅ Future-proof code
+
+**Quick Reference:**
+| ❌ Avoid | ✅ Use Instead |
+|----------|----------------|
+| master/slave | primary/replica |
+| whitelist/blacklist | allowlist/blocklist |
+| master branch | main branch |
+| sanity check | validation check |
+
+📖 **[Read the full guide →](INCLUSIVE-TERMINOLOGY.md)** for complete explanations, code examples, and migration strategies.
